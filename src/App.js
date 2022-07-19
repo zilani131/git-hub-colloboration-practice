@@ -10,6 +10,7 @@ function App() {
           
         </h2>
     </div>
+    <nav>zilanieis </nav>
   );
 }
 
